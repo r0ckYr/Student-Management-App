@@ -3,6 +3,8 @@
 Student Management System is software which is helpful for students as well as the school authorities. In the current system all the activities are done manually. It is very time consuming and costly. Our Student Management System deals with the various activities related to the students.
 In the Software we can register as a user and user has of two types, user and administrator. Administrators have the power to add new students and can edit and delete a student. A user can register as a student and can add and edit a student’s profile. 
 
+![Screenshot from 2022-09-06 15-52-53](https://user-images.githubusercontent.com/73944333/188637506-6794e104-fea4-4ba4-853c-2cb3b7d667f7.png)
+
 The objective of Student information System is to allow the administrator of any organization to edit and find out the personal details of a student and allows the users to keep up the student’s data to date.It’ll also facilitate keeping all the records of students, such as their id, name, mailing address, phone number, DOB etc. So all the information about a student will be available in a few seconds. Overall, it’ll make Student Information Management an easier job for the administrator and the student of any organization. The main purpose of this SRS document is to illustrate the requirements of the project Student information System and is intended to help any organization to maintain and manage its student’s personal data.
 
 **Search module:** Suppose there are hundreds of students and from this we have to search a particular student and we know the name of the student .This module will help the administrator in searching the student with various criteria easily. 
