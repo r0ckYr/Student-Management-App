@@ -1,6 +1,6 @@
 # Student-Management-App
 
-###### INTRODUCTION
+## INTRODUCTION
 Student Management System is software which is helpful for students as well as the school authorities. In the current system all the activities are done manually. It is very time consuming and costly. Our Student Management System deals with the various activities related to the students.
 In the Software we can register as a user and user has of two types, user and
 administrator. Administrators have the power to add new students and can edit and delete a student. A user can register as a student and can add and edit a student’s profile. 
@@ -13,7 +13,7 @@ The objective of Student information System is to allow the administrator of any
 **User Management:** This module will help the administrator in enabling/disabling a user account and updating user information as required. Purpose of project is to maintain details of the students such as storing information about:  Student id  Student password  Student name  Student DOB  Student mailing address  Gender  Registration date  Student status  Contact no  Qualification  City  Resume  Image
 
 
-###### Technologies 
+## Technologies 
 
 # • Java Swing 
 ***Java*** Swing is a lightweight Java graphical user interface (GUI) widget toolkit that includes a rich set of widgets. It is part of the Java Foundation Classes (JFC) and includes several packages for developing rich desktop applications in Java
@@ -22,7 +22,7 @@ The objective of Student information System is to allow the administrator of any
 ***MySQL*** is a relational database management system (RDBMS)[1] that runs as a server providing multi-user access to a number of databases. MySQL is a popular choice of database for use in web applications and is an open source product. 
 
 
-## Technology Overview
+# Technology Overview
 The technology selected for implementing the Student Management System is **JAVA** and **MYSQL**. 
 **JAVA SWING** includes built-in controls such as trees to display HTTP or rich text format (RTF). Swing components are written entirely in Java and thus are platform-independent.
 **MYSQL** is a stable, reliable and powerful solution with advance features like:
@@ -34,4 +34,4 @@ The technology selected for implementing the Student Management System is **JAVA
 
 The development was done in a ‘windows’ environment using **Visual Studio Code**. 
 
-##Snapshots
+## Snapshots
