@@ -14,10 +14,10 @@ The objective of Student information System is to allow the administrator of any
 **User Management:** This module will help the administrator in enabling/disabling a user account and updating user information as required. Purpose of project is to maintain details of the students such as storing information about:  Student id  Student password  Student name  Student DOB  Student mailing address  Gender  Registration date  Student status  Contact no  Qualification  City  Resume  Image
 
 **Students Database**
-![Screenshot from 2022-09-06 18-22-55](https://user-images.githubusercontent.com/73944333/188640453-af8c61ff-62d4-422f-9757-3df3dd3b4ab0.png)
+<img src="https://user-images.githubusercontent.com/73944333/188640453-af8c61ff-62d4-422f-9757-3df3dd3b4ab0.png" height=350>
 
 **Managers Database**
-![Screenshot from 2022-09-06 18-22-55](https://user-images.githubusercontent.com/73944333/188640379-d2ca18d6-c183-4772-ace9-592c40042b50.png)
+<img src="https://user-images.githubusercontent.com/73944333/188640379-d2ca18d6-c183-4772-ace9-592c40042b50.png" height=350>
 
 
 # Technologies 
