@@ -23,7 +23,7 @@ The objective of Student information System is to allow the administrator of any
 # Technologies 
 
 ## • Java Swing 
-***Java*** Swing is a lightweight Java graphical user interface (GUI) widget toolkit that includes a rich set of widgets. It is part of the Java Foundation Classes (JFC) and includes several packages for developing rich desktop applications in Java
+***Java Swing*** is a lightweight Java graphical user interface (GUI) widget toolkit that includes a rich set of widgets. It is part of the Java Foundation Classes (JFC) and includes several packages for developing rich desktop applications in Java
 
 ## • MYSQL 
 ***MySQL*** is a relational database management system (RDBMS)[1] that runs as a server providing multi-user access to a number of databases. MySQL is a popular choice of database for use in web applications and is an open source product. 
@@ -31,12 +31,13 @@ The objective of Student information System is to allow the administrator of any
 
 ## Technology Overview
 The technology selected for implementing the Student Management System is **JAVA** and **MYSQL**. 
+
 **JAVA SWING** includes built-in controls such as trees to display HTTP or rich text format (RTF). Swing components are written entirely in Java and thus are platform-independent.
+
 **MYSQL** is a stable, reliable and powerful solution with advance features like:
 • Data Security.
 • On-Demand Scalability.
 • High Performance.
 • Complete Workflow Control.
-
 
 The development was done in a ‘windows’ environment using **Visual Studio Code**. 
